@@ -1,0 +1,6 @@
+mods/data/despair/despair-hard.json
+mods/data/despair/mod.txt
+mods/songs/despair/Voices.ogg
+mods/songs/despair/voices.ogg
+mods/songs/despair/Inst.ogg
+mods/songs/despair/inst.ogg
